@@ -23,7 +23,7 @@
 <script src="js/jquery.magnific-popup.min.js"></script>
 <script src="js/jquery.flexslider-min.js"></script>
 <script type="text/javascript" src="js/jquery.flipcountdown.js"></script>
-<script src="https://use.typekit.net/bkt6ydm.js"></script>
+<!-- <script src="https://use.typekit.net/bkt6ydm.js"></script> -->
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 	
 	<meta name="google-site-verification" content="XgdkddUt62liRdVlMvbqCDRDUZYqSvMnbHhqIGgqKs8" />
@@ -263,7 +263,6 @@
 <!------------ Home banner end ------------> 
 
 <!------------ About start ------------>
-
 <section id="about">
   <div class="about-intro">
     <div class="container">
